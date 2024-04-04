@@ -1,5 +1,5 @@
 void main(){
-  var name = "bereket";
+  var name = 9;
   print("Hello $name");
 
   const age = 26; 
@@ -8,5 +8,6 @@ void main(){
   print(age + 10);
 
   print("my name is  $name and my age is $age");
+  
 
 }
